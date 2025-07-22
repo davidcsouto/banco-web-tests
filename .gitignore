@@ -1,6 +1,7 @@
 # Outputs Cyppress
 cypress/screenshots
 cypress/videos
+cypress/reports
 
 # Logs
 logs
